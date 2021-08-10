@@ -28,8 +28,8 @@ That's all the Q&A questions we have right now.
 
 Now, lets talk about information.
 
-Soda Clicker made using: Windows 10 Version 21H1.
-Soda Clicker was made in: VB.net
-Soda Clicker uses .NET: Framework 4.8
+Soda Clicker made using: Windows 10 Version 21H1.\
+Soda Clicker was made in: VB.net\
+Soda Clicker uses .NET: 5.0
 
 thank you for coming to my ted talk
