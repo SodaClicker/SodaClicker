@@ -1,5 +1,5 @@
 # What is Soda Clicker?
-Soda Clicker is a game similar to Cookie Clicker. It can unfortunately only be played on Windows (for now).
+Soda Clicker is a game similar to Cookie Clicker. It can unfortunately only be played on Windows (I'm working on it!).
 Now, for a Q&A with questions nobody asked!
 
 ---
